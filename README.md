@@ -20,7 +20,7 @@ A simple Task Tracker application implemented in Java with a Command Line Interf
 - **Formatted Output:** Displays tasks in a clean, well-organized table format within the terminal.
 - **Minimal Dependencies:** No external libraries are used, ensuring the project is simple and lightweight.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
